@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **https://argentinaprograma.com/curso-javascript**
+- 🌱 I’m currently learning **[The Odin Project: Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
