@@ -1,5 +1,6 @@
 ## Sebastian
 ### Frontend student from Argentina (recently moved to Italy)
+[Presentación](Talauer/tarjeta para github2.svg)
 
 ## Status
 - 💻 I’m currently working on my portfolio
