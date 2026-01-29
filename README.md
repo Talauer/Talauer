@@ -1,6 +1,9 @@
 ## Sebastian
 ### Frontend student from Argentina (recently moved to Italy)
-![Presentación]([Talauer/tarjeta para github2.svg](https://github.com/Talauer/Talauer/blob/main/tarjeta%20para%20github2.svg))
+![Tarjeta personal](https://github.com/Talauer/Talauer/blob/main/tarjeta%20para%20github2.svg?raw=true)
+<div align="center">
+  <img src="https://github.com/Talauer/Talauer/blob/main/tarjeta%20para%20github2.svg?raw=true" alt="Tarjeta personal" width="100%"/>
+</div>
 
 ## Status
 - 💻 I’m currently working on my portfolio
